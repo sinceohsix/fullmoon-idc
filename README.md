@@ -1,4 +1,4 @@
-### wfullmoon idc
+### fullmoon idc
 fullmoon - intelligent device control runs off the [fullmoon](https://fullmoon.app) app. 
 
 #### what is fullmoon idc?
