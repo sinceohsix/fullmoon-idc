@@ -1,2 +1,2 @@
-# fullmoon-idc
+# fullmoon idc
 fullmoon - intelligent device control
