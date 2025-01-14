@@ -1,4 +1,4 @@
-### fullmoon idc
+### wfullmoon idc
 fullmoon - intelligent device control runs off the [fullmoon](https://fullmoon.app) app. 
 
 #### what is fullmoon idc?
@@ -8,3 +8,10 @@ fullmoon - intelligent device control is a a local intelligence tool built in sh
 fullmoon idc allows you to control your device in more natural ways, it gives you access to an llm that can operate your device with "actions". for example you can ask it who the president was 47 years ago, you can ask to stalk your friend's instagram, or with a video on screen you can simply say "download this video" and it will take care of everything.
 
 tl;dr it does exactly what you want.
+
+#### how to set up fullmoon idc
+
+1. download the [fullmoon](https://fullmoon.app) app.
+2. press get started then install the `llama-3.2-3b-instruct-4bit` model (other models may not give adequate results).
+3. tap this link.
+4. then this one.
